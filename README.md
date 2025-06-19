@@ -105,7 +105,7 @@ Screenshots
 ![gad Quarks](https://github.com/user-attachments/assets/b27032aa-b119-419c-a704-ee15d92b5325)
 
 
-⚡ Bonus: The frontend was not required, but I built it to demonstrate the backend API clearly and professionally.
+The frontend was not required, but I built it to demonstrate the backend API clearly and professionally.
 
 Thank You
 Thank you for reviewing my submission. I’m excited about the opportunity to contribute and grow with Quarks Group LTD.
